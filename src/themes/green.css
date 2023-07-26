@@ -1,0 +1,32 @@
+.green {
+  --background: hsl(0, 0%, 98.8%);
+  --foreground: hsl(123, 30.2%, 50%);
+
+  --muted: hsl(103, 73.8%, 88%);
+  --muted-foreground: hsl(104, 10%, 43.1%);
+
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(222.2, 47.4%, 11.2%);
+
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(222.2, 47.4%, 11.2%);
+
+  --border: hsl(214.3, 31.8%, 91.4%);
+  --input: hsl(214.3, 31.8%, 91.4%);
+
+  --primary: hsl(133, 44%, 51%);
+  --primary-foreground: hsl(130, 50%, 97.6%);
+
+  --secondary: hsl(110, 46.1%, 65.1%);
+  --secondary-foreground: hsl(120, 50%, 98.4%);
+
+  --accent: hsl(109, 60.7%, 77.1%);
+  --accent-foreground: hsl(105, 66.7%, 98.8%);
+
+  --destructive: hsl(328, 81.2%, 60.4%);
+  --destructive-foreground: hsl(105, 66.7%, 98.8%);
+
+  --ring: hsl(215, 20.2%, 65.1%);
+
+  --radius: 0rem;
+}
