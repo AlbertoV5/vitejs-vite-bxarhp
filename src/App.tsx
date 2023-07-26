@@ -75,7 +75,6 @@ export function TabsDemo() {
 function App() {
   const themes = ['default', 'green'];
   const [activeTheme, setActiveTheme] = useState(themes[0]);
-
   return (
     <div className="flex flex-col w-[400px] justify-center m-auto min-h-screen">
       <div className="fixed bottom-2 left-0 w-full flex justify-center gap-2">
